@@ -16,9 +16,7 @@ class CfgPatches
 			"A3_Weapons_F",
 			"A3_Characters_F",
 			"A3_Characters_F_BLUFOR",
-			"Extended_EventHandlers",
-			"rhsusf_infantry2"
+			"Extended_EventHandlers"
 		};	
     };
-	
 };
